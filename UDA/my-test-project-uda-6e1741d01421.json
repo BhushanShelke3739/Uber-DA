@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-test-project-uda",
+  "private_key_id": "6e1741d0142100cf8b6055071900c2e47c046ebc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy1uXIZ1gNDMQY\nhXKZkmmY1h0pHce63VUY+RozyjDbowVhfengw9twtjwdvM9jaLpb8s5iFx+iw6Xl\nuFWOJjqQdeWpS6tU6Abq+3Ir/IXRiO61XJBcWLJLAMMdj/t+pMOnMkzEnWCGN2hi\nRJacHlSrUgLm5USfinu5VC3WzjD8793ttGyG4/kapdlDryHM9/1G3cSp3G9DLorl\naiWJMGKYiJOWMkrif3MqQ80od9Un2fuyVVtYRHKw36ACMDfVFAHUrsJ4Wu4G6NaI\nsgC50qMpxlBKljdBczevIAFkDKekmg8hgXaE95/BrppcpOiVGQTnxUC070+JUzhw\nxMY2ZKdDAgMBAAECggEARl8BNAZWQ2xOjUeVfJB8NMOr3c32FbWaEqWSheZ9qy9O\norolGWh4JLXQmfL9uCQxkJTOWRK4RBewY+BQ6gpo6Qc7Q46e8F4MutIObviCv5ye\nMYcm1u+f2JuIK03IrGCxDE1in8s9fBK5ZFGQ4gWdU3yF380/X3fij15sWyXvaNdh\nSF+BGn86I00W6MUaE1wJY9bJ3oKbs9eTURH6wlNALvF42wrdv78fX+QTCg0cKXPv\npYtgjwaLEL1W/k7M4Tbcuh4YDsEsuJcgCl+So5xsLSSiM3rwz3kiBBoowtaIh8Bw\nfzEemLuiqDCjehV5aXZ0m73/5Hzh0Lp94J9dbtSi4QKBgQDjvq4OF5OqBFPHbCak\nuzak8w1WOtKlTjF3SkcTpNjpJkvW8i2vK6RNgwthnqLdVAXZo+bLUSQYvmKjXsLq\ng/szXsiNTKyNVRctAlOQfxVrwZdtHfS3KHfXPpMzeCZAg6l87YbNkte+W19c2GG3\nZTRfxSvf+dF17gQZfW8+bEIBXQKBgQDJBvOITquNcahVhrn6Bu8AkrXjo9h9Ivpi\ngAsCH+yN9CWMlqOXwdi7zOi8Zz6SB4cq0TYTjtGg6cm+718OBX6jpSn35GRyJhYx\nUA05hPajCnabdbkBPrmvK0v94Rs4pazdpxPlj+dNVCt3Ymvl80J+wUmlo9b8xbbu\ntq/i5gehHwKBgHFLOBb2j5SyVmMMYCTupP5lkqrk1Ek7nsvy/Wy+QtGpJW0mSKet\nlCyjFhRX8DkeRVLBgFyAXu6YN0WCLICxa1NgwW/ZRrWAMOlJEPz+208hnQzBLC25\nSfSfwmaGTLEnTjdBih/V/tFJbyUm12V+SRGjanIfOp3p68wqZB6viB5ZAoGACYfF\n1el84pjH1T4s5PidLhbGfsNOySf2XOMbIn+m9Ffly9N8b/5lqwmc4wm2ArBOrS37\n9VNpBsruoJmylPSXu2RiJ/lw9aRumunjpp1yH+qoEtiy66cwoGhaEvAwHTBlkKCS\nJej7m0PpR6Cn4t/0gBPjzPGGiLdK4+hPUF99bxsCgYEAjvHsLwOn3gShcvj6AnQF\n8hVpAC+h0Ewqt7uWzFagRybPTMehKBpE6Q+ETBeA8luWVA9he9ATrlftB1At7BoG\najOr41z3hwKDXrxK3MPKOmm1MU+YUxoIxjFPnEEwPwjvhDfqWaLEICl3YDGT6cYZ\n9xlfjPES+K7e1U1SuEfJTLs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-project-data-engg@my-test-project-uda.iam.gserviceaccount.com",
+  "client_id": "104883379246360581795",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-project-data-engg%40my-test-project-uda.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
